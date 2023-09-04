@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash(a.k.a GitHubPoseidon)
-- 👀 I’m interested in Artificial Intelligence and Machine Learning(and generally Tech)
+- 👀 I’m interested in Artificial Intelligence and Machine Learning (and generally Tech)
 - 🌱 I’m currently pursuing CSE(AI-ML) from PES University
 - 📫 How to reach me akashganamukhi@gmail.com
 
